@@ -1,0 +1,49 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Error logs
+hs_err_pid*
+*.log
+
+# Gradle
+/.gradle
+/build/
+/out/
+
+# Gradle wrapper (optional)
+# /gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+*.iws
+.idea/**/workspace.xml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+/.vscode/
+
+# Spring Boot / Java
+/target/
+
+# macOS
+.DS_Store
+Icon?
+
+# Environment files
+.env
+.env.local
+
+# Others
+Thumbs.db
+
+
